@@ -1,5 +1,19 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Небольшой Vue 3-проект с неоновой авторизацией.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+- Vue 3 
+- Pinia 
+- Vue Router
+- TailwindCSS
+- vue-the-mask (маска телефона)
+
+
+
+- Авторизация по email+пароль или телефону
+- Маска ввода телефона 
+- Состояние авторизации сохраняется в localStorage
+
+Запуск проекта
+
+npm install
+npm run dev

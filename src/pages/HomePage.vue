@@ -1,8 +1,12 @@
 <template>
     <div class="min-h-screen flex items-center justify-center bg-[#1b1c1f]/90 flex-col text-white">
         <div class="text-3xl font-bold mb-4">Добро пожаловать 🎉</div>
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" class="w-72 h-auto rounded-xl shadow" />
+        <a href="https://github.com/dobrovolskyv/gora-studio-test">
+            <p>Ссылка на код</p>
+            <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" class="w-72 h-auto rounded-xl shadow" />
+        </a>
 
+        <span class="mt-3">но также </span>
         <a href="https://dobdev.vercel.app/" class="text-xl text-blue-400 mt-4">Можно посмотреть на мой сайт</a>
         <span class="mt-3">или</span>
         <button @click="logout"
