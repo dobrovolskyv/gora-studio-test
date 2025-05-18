@@ -70,7 +70,7 @@ function onSubmit() {
         auth.login()
         router.push('/home')
     } else {
-        alert('Invalid credentials')
+        alert('неверные данные')
     }
 }
 
