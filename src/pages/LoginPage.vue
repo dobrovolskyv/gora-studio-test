@@ -1,5 +1,5 @@
 <template>
-    <div class="min-h-screen flex items-center justify-center bg-[url('bg.jpg')] bg-cover bg-center">
+    <div class="min-h-screen flex items-center justify-center bg-[url('/bg.jpg')] bg-cover bg-center">
         <div
             class="bg-[#1b1c1f]/80 p-6 rounded-xl shadow-lg w-full max-w-md border border-blue-400/50 backdrop-blur-sm">
             <h2 class="text-2xl font-semibold mb-6 text-blue-300 text-center">
