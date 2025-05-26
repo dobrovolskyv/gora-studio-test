@@ -16,4 +16,7 @@
 Запуск проекта
 
 npm install<br>
-npm run dev
+npm run dev<br>
+
+Посмотреть можно по ссылке 
+https://gora-studio.netlify.app
